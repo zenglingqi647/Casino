@@ -1,6 +1,6 @@
 # COMP 4901W Final Project
 
-Final Project of **COMP 4901W: Introduction to Blockchain, Cryptocurrencies and Smart Contracts**
+Final Project for **COMP 4901W: Introduction to Blockchain, Cryptocurrencies and Smart Contracts**
 
 ### IDE
 Remix
